@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomDateGenerator_ConsoleApp", "RandomDateGenerator_ConsoleApp\RandomDateGenerator_ConsoleApp.csproj", "{6880BD91-BF8E-4C89-92D2-1EA3C2A4016E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6880BD91-BF8E-4C89-92D2-1EA3C2A4016E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6880BD91-BF8E-4C89-92D2-1EA3C2A4016E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6880BD91-BF8E-4C89-92D2-1EA3C2A4016E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6880BD91-BF8E-4C89-92D2-1EA3C2A4016E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B6F9C6-7598-4082-827C-CEAC87356877}
+	EndGlobalSection
+EndGlobal
